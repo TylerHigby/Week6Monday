@@ -9,7 +9,7 @@
             below:
           </p>
 
-          <p>{{}}</p>
+          <p>{{ 'Hello, World!' }}</p>
         </div>
         <div class="border p-1">
           <p>
